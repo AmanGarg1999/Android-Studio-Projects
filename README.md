@@ -10,6 +10,8 @@ Each project will include a Readme File which will include the functionality of 
 
 ## How to import the project
 
+- Unzip the Project file
+- open Android Studio
 - close all the existing projects
 - click on Open an existing Android Studio Project
 - Select path of the project
@@ -17,7 +19,6 @@ Each project will include a Readme File which will include the functionality of 
 - click ok
 
 ## How to run the Project
-
 
 - Click on Run
 - Selct your device (Either Emulator or connected Device)
