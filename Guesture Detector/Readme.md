@@ -2,7 +2,7 @@
 
 This Application is Featured to detect the type of Guesture and will display it in Text View.
 
-The Gestures will include :
+Guesture that can be detected :
 - Single Tap
 - Doubble Tap
 - Doubble Tap Event
